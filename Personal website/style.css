@@ -1,0 +1,214 @@
+body
+{
+    background-color: #050505;
+}
+
+.menu 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    width: 70px;
+    height: 185px;
+    float: right;
+    margin-right: 110px;
+    margin-top: 300px;
+    border-radius: 35px;
+    padding: 15px 0;
+    box-shadow: 0px 0px 20px 1px white;
+}
+
+.card
+{
+    float: left;
+    margin-top: 95px;
+    margin-left: 130px;
+    background: rgb(80, 80, 80);
+    width: 1100px;
+    height: 650px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.1);
+}
+
+.card_inner1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    height: 100%;
+    border-radius: 16px;
+    color: white;
+    overflow: auto;
+}
+
+.img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+    margin: 10px;
+    margin-top: 100px;
+    margin-right: 110px;
+    box-shadow: 0px 0px 10px 2px white;
+}
+
+#social
+{
+    margin-right: 60px;
+}
+
+.card_inner2
+{
+    float: right;
+    width: 60%;
+    height: 97%;
+    font-size: large;
+    padding: 10px;
+    background-color: wheat;
+    border-radius: 5px;
+    margin-top: -650px;
+    overflow: auto;
+    padding-left: 10px;
+    scroll-behavior: smooth;
+}
+
+.skill 
+{
+    background-color: black;
+    color: #fff;
+    line-height: 35px;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.about1
+{
+    float: left;
+    width: 48%;
+    background-color: transparent;
+}
+
+.about2
+{
+    float: right;
+    width: 48%;
+    background-color: transparent;
+}
+
+.pro1
+{
+    float: left;
+    width: 100%;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+.pro2
+{
+    float: left;
+    width: 100%;
+    background-color: lightcoral;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.homecon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-color: transparent;
+}
+
+.homedes
+{
+    text-align: center;
+    margin-top: 225px;
+}
+
+.aboutcon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-color: transparent;
+    margin-top: 100px;
+}
+
+.abouthead
+{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.educon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-color: transparent;
+    margin-top: 100px;
+}
+
+.procon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-color: transparent;
+}
+
+.Contactcon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    margin-top: 20px;
+    background-color: transparent;
+    
+}
+
+.Cercon
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-color: transparent;
+    overflow: auto;
+}
+
+.interncon1
+{
+    float: left;
+    width: 150px;
+    height: 110px;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow:10px 15px 10px  white;
+}
+
+.cercon 
+{ 
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.box 
+{ 
+    flex-grow: 13; 
+    width: 100px; 
+    height: 100px; 
+    background: transparent;
+    margin: 50px;
+}
+
+footer
+{
+    float: left;
+    color: white;
+    margin-top: 20px;
+}
