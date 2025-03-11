@@ -1,8 +1,6 @@
 
 In this Web Development repository we have 3 main folder
-1.Personal website
-2.contact form
-3.weatther app
+
 
 1.Personal website:-
                   In this personal website you will see all the information about yourself and we have fantastic style and a common html tags 
