@@ -1,14 +1,82 @@
+# Web Development Projects Showcase
 
-In this Web Development repository we have 3 main folder
+This repository contains a collection of web development projects created as part of the INTERNSAVY internship.
 
+## Table of Contents
 
-1.Personal website:-
-                  In this personal website you will see all the information about yourself and we have fantastic style and a common html tags 
-in this file.
+- [Personal Portfolio Website](#personal-portfolio-website)
+- [Contact Form](#contact-form)
+- [Weather App](#weather-app)
+- [Getting Started](#getting-started)
 
-2.Contact form:-
-                 In this contact form you will see a small website called contact form.This website contains HTML,CSS tags.
+---
 
-3.Weather App:-
-                 In this weather app we will see the weather condition contain UV index,Temperature,....etc.I have used openweather.api key to get the current weather condition.
-I have used language like HTML,CSS,Javascript.                 
+## Personal Portfolio Website
+
+A responsive personal portfolio website designed to showcase skills, projects, and professional experience.
+
+### Features
+- **About Me:** A brief introduction to who I am.
+- **Skills:** A list of my technical skills and programming languages.
+- **Education:** Details of my academic background.
+- **Projects:** A showcase of completed projects with links to their repositories.
+- **Certifications:** A gallery of my earned certificates.
+- **Contact:** My contact information and links to social media profiles.
+- **Downloadable CV:** A direct link to download my latest CV.
+
+### Technologies Used
+- HTML5
+- CSS3
+
+---
+
+## Contact Form
+
+A clean and straightforward contact form page.
+
+### Features
+- **Input Fields:** Fields for Name, Email, and a Message.
+- **Simple Validation:** Uses the `required` attribute for basic form validation.
+- **Submit Button:** A button to submit the form.
+
+### Technologies Used
+- HTML5
+- CSS3
+
+---
+
+## Weather App
+
+A dynamic weather application that fetches and displays real-time weather data for any city using the OpenWeatherMap API.
+
+### Features
+- **Search by City:** Find current weather information for any city around the world.
+- **Current Weather Data:** Displays temperature, humidity, and wind speed.
+- **Detailed Information:** Provides extra data like sunrise/sunset times, UV index, pressure, visibility, and the "feels like" temperature.
+- **Dynamic Weather Icons:** The icon changes to reflect the current weather conditions (e.g., sunny, cloudy, rainy).
+- **API Integration:** Fetches live data from the [OpenWeatherMap API](https://openweathermap.org/api).
+
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript (for API calls and DOM manipulation)
+
+### API Key Note
+This project uses a public API key from OpenWeatherMap, which is included in `weather app/script.js`. For extensive use, it is recommended to get your own free API key from their website.
+
+---
+
+## Getting Started
+
+To run these projects locally, clone the repository and open the `.html` files in your web browser.
+
+```bash
+git clone https://github.com/mohana9985/WebDevelopment-INTERNSAVY.git
+cd WebDevelopment-INTERNSAVY
+```
+
+- **To view the Personal Website:** Open `Personal website/website.html`
+- **To view the Contact Form:** Open `contact form/contact.html`
+- **To view the Weather App:** Open `weather app/weatherapp.html`
+
+---
